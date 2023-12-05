@@ -1,0 +1,88 @@
+.chat-app {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 90%;
+    margin: 1% auto;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 3px solid #383b3d;
+}
+
+.header {
+    background-image: linear-gradient(180deg, #303941, #242b35);
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
+.messages-container {
+    flex: 1;
+    background-color: #303941;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width: 101%;
+}
+
+.messages {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    height: 99%;
+    overflow-y: auto;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.message {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    color: rgb(184, 184, 184);
+}
+
+.user {
+    font-weight: bold;
+    margin-right: 10px;
+    color: white;
+}
+
+.new-message-form {
+    display: flex;
+    width: 100%;
+    padding: 10px;
+}
+
+.new-message-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    background: rgba(119, 119, 119, 0.301);
+    font-size: 16px;
+    color: black;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.send-button,
+.back-button {
+    border: none;
+    outline: none;
+    background-image: linear-gradient(180deg, #3c74b4, #225979);
+    border-radius: 12px;
+    color: #fff;
+    padding: 10px; /* Adjust padding for consistency */
+}
+
+.send-button {
+    font-size: 24px;
+    margin-left: 1%;
+}
+
+.back-button {
+    font-size: 15px;
+}
