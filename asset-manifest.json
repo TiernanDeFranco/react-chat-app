@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/react-chat-app/static/css/main.7ccecaba.css",
-    "main.js": "/github.io/react-chat-app/static/js/main.10705d2c.js",
-    "static/js/787.6f3d5515.chunk.js": "/github.io/react-chat-app/static/js/787.6f3d5515.chunk.js",
-    "index.html": "/github.io/react-chat-app/index.html",
-    "main.7ccecaba.css.map": "/github.io/react-chat-app/static/css/main.7ccecaba.css.map",
-    "main.10705d2c.js.map": "/github.io/react-chat-app/static/js/main.10705d2c.js.map",
-    "787.6f3d5515.chunk.js.map": "/github.io/react-chat-app/static/js/787.6f3d5515.chunk.js.map"
+    "main.css": "/react-chat-app/static/css/main.7ccecaba.css",
+    "main.js": "/react-chat-app/static/js/main.d046d31a.js",
+    "static/js/787.6f3d5515.chunk.js": "/react-chat-app/static/js/787.6f3d5515.chunk.js",
+    "index.html": "/react-chat-app/index.html",
+    "main.7ccecaba.css.map": "/react-chat-app/static/css/main.7ccecaba.css.map",
+    "main.d046d31a.js.map": "/react-chat-app/static/js/main.d046d31a.js.map",
+    "787.6f3d5515.chunk.js.map": "/react-chat-app/static/js/787.6f3d5515.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ccecaba.css",
-    "static/js/main.10705d2c.js"
+    "static/js/main.d046d31a.js"
   ]
 }
